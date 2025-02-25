@@ -19,4 +19,4 @@ def calcular(operacao: str, a: float, b: float):
             return {"erro": "Não é possível dividir por zero"}
         return {"resultado": a / b}
     else:
-        return {"erro": "Operação inválida! Use soma, subtracao, multiplicacao ou divisao"}
+        return {"erro": "Operação inválida seu mané! Use soma, subtracao, multiplicacao ou divisao"}
